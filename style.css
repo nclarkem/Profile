@@ -1,0 +1,60 @@
+body {
+	background: url('bg.jpg.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Fredericka the Great', cursive;
+	font-family: 'Josefin Slab', serif;
+
+}
+
+h1 {
+	color: #DDE7EB;
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+	white-space: nowrap; 
+	margin-left: -40px;
+	margin-right: 500px;
+}
+
+
+h2{
+	color: #DDE7EB;
+	font-size: 18px;
+	margin-top: 5px;
+	font-family: 'Josefin Slab';
+	font-weight: thin;
+}
+
+.bio {
+	color: #DDE7EB;
+	font-size: 14px;
+	font-weight: normal;
+	font-family: 'Josefin Slab';
+}
+
+.me {
+	height: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: #AA8EAD;
+	margin-top: 40px;
+}
+
+.about{
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.grey{
+	height: 10px;
+	border: none;
+	box-shadow: 0 10px 10px -10px #AA8EAD inset;
+	width: 250px;
+}
+
